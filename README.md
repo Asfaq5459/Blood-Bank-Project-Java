@@ -56,13 +56,6 @@ The application opens with the login page. Register an account to get started.
 * GUI event handling
 * Separation of entities, data management, and GUI
 
-## ⚠️ Limitations
-
-* Uses text files instead of a database
-* Passwords are not securely hashed
-* Uses fixed-size arrays for data management
-* No automatic blood compatibility checking or inventory synchronization
-
 ## 📄 License
 
 Developed for educational purposes as an academic Java programming project.
